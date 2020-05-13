@@ -1,0 +1,3 @@
+set -ex
+
+cp ../default_template /home/jovyan/.local/share/jupyter/voila/templates
