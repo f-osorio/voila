@@ -1,5 +1,4 @@
 voila
-voila-gridstack
 pandas
 numpy==1.16.*
 plotly
